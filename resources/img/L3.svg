@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1125 1980">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #263238;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: JigsawSans-Medium, 'Jigsaw Sans';
+        font-size: 84.86px;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill: #e8eaed;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="-.19" y="-.4" width="1125" height="229"/>
+  <path class="cls-3" d="M91.81,135.6v-7.33h66v7.33h-66ZM91.81,117.26v-7.33h66v7.33h-66ZM91.81,98.93v-7.33h66v7.33h-66Z"/>
+  <path class="cls-3" d="M1007.74,117.67h-21.43v-7.14h21.43v-21.43h7.14v21.43h21.43v7.14h-21.43v21.43h-7.14v-21.43Z"/>
+  <text class="cls-2" transform="translate(418.76 139.23)"><tspan x="0" y="0">Outline</tspan></text>
+</svg>
