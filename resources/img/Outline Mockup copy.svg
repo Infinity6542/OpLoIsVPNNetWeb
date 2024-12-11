@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1125 1980">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path class="cls-1" d="M15,0h1094.04c8.81,0,15.96,7.15,15.96,15.96v1948.08c0,8.81-7.15,15.96-15.96,15.96H15.96c-8.81,0-15.96-7.15-15.96-15.96V15C0,6.72,6.72,0,15,0Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1125 1980" xmlns:v="https://vecta.io/nano"><path d="M15,0h1094.04c8.81,0,15.96,7.15,15.96,15.96v1948.08c0,8.81-7.15,15.96-15.96,15.96H15.96c-8.81,0-15.96-7.15-15.96-15.96V15C0,6.72,6.72,0,15,0Z" fill="#fff"/></svg>
