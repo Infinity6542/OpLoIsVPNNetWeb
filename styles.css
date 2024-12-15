@@ -169,7 +169,7 @@ h2 {
 
 	.heroImgPerspective {
 		height: 700px;
-		margin-right: 250px;
+		margin-right: calc(100vw / 13);
 	}
 }
 
@@ -192,13 +192,17 @@ h2 {
 	}
 
 	.heroImg img {
-		height: calc(100vw);
+		height: calc(100vw / 1.5);
+		max-height: 500px;
+		min-height: 350px;
 	}
 
 	.heroImgPerspective {
 		top: 100%;
+		height: calc(100vw / 1.5);
+		max-height: 500px;
+		min-height: 350px;
 		margin-right: auto;
-		height: calc(100vw);
 		z-index: 0;
 	}
 
