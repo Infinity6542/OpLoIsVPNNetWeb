@@ -224,3 +224,8 @@ h2 {
         margin-top: 10px;
     }
 }
+
+/** SPECIAL */
+.specialAccent {
+	color: #ca244c;
+}
