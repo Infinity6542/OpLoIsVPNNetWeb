@@ -7,15 +7,15 @@ let el2 = document.querySelector(".l2");
 let el3 = document.querySelector(".l3");
 
 async function init() {
-	await sleep(500).then(() => {
+	await sleep(200).then(() => {
 		el1.classList.add("active");
 	});
 
-	await sleep(600).then(() => {
+	await sleep(400).then(() => {
 		el2.classList.add("active");
 	});
 
-	await sleep(700).then(() => {
+	await sleep(600).then(() => {
 		el3.classList.add("active");
 	});
 }
@@ -54,4 +54,4 @@ async function init() {
 //   }
 // }());
 
-init();
+// init();

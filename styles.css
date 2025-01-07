@@ -121,7 +121,7 @@ h2 {
 }
 
 .heroImgPerspective > * {
-	animation: loadIn 1s ease-out;
+	animation: loadIn 1s ease-in-out forwards;
 	opacity: 0;
 }
 
@@ -159,6 +159,27 @@ h2 {
 		opacity: 1;
 		filter: blur(0px);
 		transform: translate(0px);
+	}
+}
+
+.hero > *:is(:not(.heroImgContainer)) {
+	animation: loadInText 1.25s ease-out forwards;
+	/* animation-delay: 1.5s; */
+	opacity: 0;
+}
+
+.afterLoadText {
+	opacity: 1;
+}
+
+@keyframes loadInText {
+	from{ 
+		opacity: 0;
+		filter: blur(10px);
+	}
+	to {
+		opacity: 1;
+		filter: blur(0px);
 	}
 }
 
