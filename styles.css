@@ -136,15 +136,15 @@ h2 {
 }
 
 .l1 {
-	animation-delay: 0s;
+	animation-delay: .7s;
 }
 
 .l2 {
-	animation-delay: 0.5s;
+	animation-delay: 1.2s;
 }
 
 .l3 {
-	animation-delay: 1s;
+	animation-delay: 1.7s;
 }
 
 .show-mobile {
@@ -165,7 +165,7 @@ h2 {
 }
 
 .hero > *:is(:not(.heroImgContainer)) {
-	animation: loadInText 1.25s ease-out forwards;
+	animation: loadInText 1s linear forwards;
 	/* animation-delay: 1.5s; */
 	opacity: 0;
 }
